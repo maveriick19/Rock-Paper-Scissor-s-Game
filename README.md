@@ -25,10 +25,11 @@ A simple and interactive Rock Paper Scissors game built using **HTML, CSS, and J
 ## 📂 Project Structure
 
 ```
-├── index.html
-├── index.css
-└── index.js
-```
+rock-paper-scissors-game/
+ ├── index.html
+ ├── index.css
+ ├── index.js
+ └── README.md
 
 ---
 
